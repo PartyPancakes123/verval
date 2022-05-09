@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Entities>
+    <student ID="123">
+        <Name>Peter Janos</Name>
+        <Group>123</Group>
+    </student>
+</Entities>
